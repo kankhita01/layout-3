@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%; }
+.a{
+    height: 774px;
+    display: flex;
+ 
+
+}
+.navigation{
+    background-color: aquamarine;
+    width: 30%;
+
+
+}
+.content{
+    width: 70%;
+    
+    
+}
+.header{
+    height:20%;
+    background-color: blue;
+    text-align: center;
+}
+.main_content{
+    height:60%;
+    display: flex;
+    
+
+}
+.second_row{
+    height: 20%;
+    background-color:chartreuse
+}
+.left_side{
+    width: 50%;
+    background-color: brown;
+
+}
+.right_side{
+    width: 50%;
+
+}
+.right_top{
+    height: 50%;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.right_bottom{
+    height: 50%;
+    background-color: aqua;
+}
